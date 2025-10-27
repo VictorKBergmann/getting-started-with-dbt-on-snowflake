@@ -3,7 +3,7 @@ SELECT
     oh.truck_id,
     oh.order_ts,
     od.order_detail_id,
-    od.line_number,
+    od.line_number, 
     m.truck_brand_name,
     m.menu_type,
     t.primary_city,
